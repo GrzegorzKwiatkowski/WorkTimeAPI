@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PjQwuZlnZ6t+qj9fhpqFchlAXS9Jrjaa+Q1oWQF7VlI=",
+  "Source": "WorkTimeManagementAPI",
+  "BasePath": "_content/WorkTimeManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: ./WorkTimeManagementAPI
+      dockerfile: Dockerfile
+    ports:
+      - "5000:8080" # Maps the container's port 80 to localhost:5000
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=postgres;Database=worktimemanagementdb;Username=postgres;Password=postgres
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:17
+    container_name: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: worktimemanagementdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - C:\Users\Beo\Documents\GitHub\WorkTimeManagementAPI\WorkTimeManagementAPI/init.sql:/docker-entrypoint-initdb.d/init.sql
+

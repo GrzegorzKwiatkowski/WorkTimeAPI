@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|solutionrelative:worktimemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F018C74D-46DD-4ECF-ADFB-BC8141B27CB2}|Solution Items{F018C74D-46DD-4ECF-ADFB-BC8141B27CB2}|C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F018C74D-46DD-4ECF-ADFB-BC8141B27CB2}|Solution Items{F018C74D-46DD-4ECF-ADFB-BC8141B27CB2}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagementapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|solutionrelative:worktimemanagementapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagementapi\\middlewares\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|solutionrelative:worktimemanagementapi\\middlewares\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagementapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|solutionrelative:worktimemanagementapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagementapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|solutionrelative:worktimemanagementapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagementapi\\controllers\\timeentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|solutionrelative:worktimemanagementapi\\controllers\\timeentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|solutionrelative:worktimemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36913CC3-134E-44BF-A8B1-B0AF8DF35536}|WorkTimeManagement.Test\\WorkTimeManagement.Test.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagement.test\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36913CC3-134E-44BF-A8B1-B0AF8DF35536}|WorkTimeManagement.Test\\WorkTimeManagement.Test.csproj|solutionrelative:worktimemanagement.test\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36913CC3-134E-44BF-A8B1-B0AF8DF35536}|WorkTimeManagement.Test\\WorkTimeManagement.Test.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagement.test\\addemployetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36913CC3-134E-44BF-A8B1-B0AF8DF35536}|WorkTimeManagement.Test\\WorkTimeManagement.Test.csproj|solutionrelative:worktimemanagement.test\\addemployetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36913CC3-134E-44BF-A8B1-B0AF8DF35536}|WorkTimeManagement.Test\\WorkTimeManagement.Test.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagement.test\\worktimemanagement.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36913CC3-134E-44BF-A8B1-B0AF8DF35536}|WorkTimeManagement.Test\\WorkTimeManagement.Test.csproj|solutionrelative:worktimemanagement.test\\worktimemanagement.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|c:\\users\\beo\\documents\\github\\worktimemanagementapi\\worktimemanagementapi\\repositories\\timeentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9F416D-42C1-49A0-908B-39FA8AC92270}|WorkTimeManagementAPI\\WorkTimeManagementAPI.csproj|solutionrelative:worktimemanagementapi\\repositories\\timeentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "WorkTimeManagementAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Dockerfile",
+              "RelativeToolTip": "WorkTimeManagementAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-19T20:25:59.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkTimeManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\appsettings.json",
+              "RelativeToolTip": "WorkTimeManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T23:23:08.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WorkTimeManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Program.cs",
+              "RelativeToolTip": "WorkTimeManagementAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:15:27.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddEmployeTest.cs",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagement.Test\\AddEmployeTest.cs",
+              "RelativeDocumentMoniker": "WorkTimeManagement.Test\\AddEmployeTest.cs",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagement.Test\\AddEmployeTest.cs",
+              "RelativeToolTip": "WorkTimeManagement.Test\\AddEmployeTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:40:28.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WorkTimeManagementAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WorkTimeManagementAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:43:23.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "WorkTimeManagementAPI\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "WorkTimeManagementAPI\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:41:53.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeEntryController.cs",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Controllers\\TimeEntryController.cs",
+              "RelativeDocumentMoniker": "WorkTimeManagementAPI\\Controllers\\TimeEntryController.cs",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Controllers\\TimeEntryController.cs",
+              "RelativeToolTip": "WorkTimeManagementAPI\\Controllers\\TimeEntryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:58:49.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Middlewares\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "WorkTimeManagementAPI\\Middlewares\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Middlewares\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "WorkTimeManagementAPI\\Middlewares\\ApiKeyMiddleware.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:11:57.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-19T20:27:36.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagement.Test\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "WorkTimeManagement.Test\\EmployeeControllerTests.cs",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagement.Test\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "WorkTimeManagement.Test\\EmployeeControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:37:55.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkTimeManagement.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagement.Test\\WorkTimeManagement.Test.csproj",
+              "RelativeDocumentMoniker": "WorkTimeManagement.Test\\WorkTimeManagement.Test.csproj",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagement.Test\\WorkTimeManagement.Test.csproj",
+              "RelativeToolTip": "WorkTimeManagement.Test\\WorkTimeManagement.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T12:09:35.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeEntryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Repositories\\TimeEntryRepository.cs",
+              "RelativeDocumentMoniker": "WorkTimeManagementAPI\\Repositories\\TimeEntryRepository.cs",
+              "ToolTip": "C:\\Users\\Beo\\Documents\\GitHub\\WorkTimeManagementAPI\\WorkTimeManagementAPI\\Repositories\\TimeEntryRepository.cs",
+              "RelativeToolTip": "WorkTimeManagementAPI\\Repositories\\TimeEntryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:20:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
